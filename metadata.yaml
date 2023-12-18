@@ -1,0 +1,31 @@
+_repo: Early-explorers-of-Plymouth-Harbor-1525-1619_72138
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howe, Henry F. (Henry Forbush)
+    alias: Howe, Henry Forbush
+    birthdate: 1905
+    deathdate: 1977
+    gutenberg_agent_id: '56558'
+    url: http://www.gutenberg.org/2009/agents/56558
+description: ''
+gutenberg_issued: '2023-11-16'
+identifiers:
+  gutenberg: '72138'
+language: en
+pgterms:marc905: 20230626033111howe
+pgterms:marc906: '1953'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aPlymouth, MA :$bPlimoth Plantation, Inc. and the Pilgrim Society,
+  $c1953.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Discoveries in geography'
+- !lcsh 'Plymouth Harbor (Mass.) -- Discovery and exploration'
+- !lcc 'F001'
+- GITenberg
+title: Early explorers of Plymouth Harbor, 1525-1619
+url: http://www.gutenberg.org/ebooks/72138
