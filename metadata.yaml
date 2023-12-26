@@ -1,5 +1,8 @@
 _repo: Early-explorers-of-Plymouth-Harbor-1525-1619_72138
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72138-h/images/cover.jpg
 creator:
   author:
     agent_name: Howe, Henry F. (Henry Forbush)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56558'
     url: http://www.gutenberg.org/2009/agents/56558
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72138#Early-explorers-of-Plymouth-Harbor-1525-1619
 gutenberg_issued: '2023-11-16'
 identifiers:
   gutenberg: '72138'
